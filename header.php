@@ -23,7 +23,7 @@
         <div class="header-area container">
             <div id="navBar" class="header">
                 <ul class="menu">
-                    <li><a href="adicionar.php">Adicionar</a></li>
+                    <li><a href="add.php">Adicionar</a></li>
                     <li><a href="#">Ler</a></li>
                     <li><a href="#">Atualizar</a></li>
                     <li><a href="#">Apagar</a></li>
