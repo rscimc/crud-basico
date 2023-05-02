@@ -24,9 +24,9 @@
             <div id="navBar" class="header">
                 <ul class="menu">
                     <li><a href="add.php">Adicionar</a></li>
-                    <li><a href="#">Ler</a></li>
-                    <li><a href="#">Atualizar</a></li>
-                    <li><a href="#">Apagar</a></li>
+                    <li><a href="index.php">Ler</a></li>
+                    <li><a href="edit.php">Atualizar</a></li>
+                    <li><a href="delete.php">Apagar</a></li>
                 </ul>
             </div>
         </div>
